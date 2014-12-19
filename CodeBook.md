@@ -3,7 +3,7 @@ Final output ([average_per_subject_and_activity.txt](https://github.com/cdsmax/g
 The final output is the average of each std() and mean() column from the raw data, for each subject for each activity.  
 
 ### Columns
-**1 - subject** - subject ID, 30 unique values   
+**1 - subject** - subject ID, 30 unique values, 1 to 30   
 **2 - activity** - name of an activity performed by the subject, 6 unique values   
 
     Possible values:  
