@@ -6,8 +6,8 @@
 
 ## Functionality
 [run_analysis.R](https://github.com/cdsmax/getting_and_cleaning_data2/blob/master/run_analysis.R) contains the R code to do the following:  
-1. merge all training and testing data into 3 new data sets (X, Y, subject) (locally stored as [UCI HAR Dataset](https://github.com/cdsmax/getting_and_cleaning_data2/tree/master/UCI%20HAR%20Dataset)  
+Merge all training and testing data into 3 new data sets (X, Y, subject) (locally stored as [UCI HAR Dataset](https://github.com/cdsmax/getting_and_cleaning_data2/tree/master/UCI%20HAR%20Dataset)  
    
-2. create one data set from 3 previous sets for standard deviations and means of all measurements, with descriptive variable and column names  
+Create one data set from 3 previous sets for standard deviations and means of all measurements, with descriptive variable and column names  
    
-3. create a new summary data set with the averages for each column from the combined set in the step above (locally stored as [average_per_subject_and_activity.txt](https://github.com/cdsmax/getting_and_cleaning_data2/blob/master/average_per_subject_and_activity.txt)  
+Create a new summary data set with the averages for each column from the combined set in the step above (locally stored as [average_per_subject_and_activity.txt](https://github.com/cdsmax/getting_and_cleaning_data2/blob/master/average_per_subject_and_activity.txt)  
